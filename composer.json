@@ -1,0 +1,25 @@
+{
+    "name": "bobonov/yii2-adminlte3-asset",
+    "description": "AdminLte3 theme assets for Yii2 Framework",
+    "type": "theme",
+    "require": {
+        "yiisoft/yii2-bootstrap4": "~2.0",
+        "almasaeed2010/adminlte":   "~3.0"
+    },
+    "require-dev": {
+        "yiisoft/yii2-coding-standards": "~2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "bobonov\\adminlte3\\":"src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roberto Braga",
+            "email": "bobonov@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
