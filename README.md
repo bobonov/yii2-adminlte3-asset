@@ -40,4 +40,4 @@ Since FontAwesomefor Yii2 is already avail by other packages, I suggest to use o
 updated version. In the template this asset is enable in order to load the theme correctly. Once you start using another
 package you can disable this asset.
 
-See [Layout Example](src/layout_template/main.php)
+See [Layout Example](src/layouts_template/main.php)
