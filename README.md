@@ -45,7 +45,7 @@ Since FontAwesome for Yii2 is already avail by other packages, I suggest to use 
 updated version. In the template this asset is enable in order to load the theme correctly. Once you start using another
 package you can disable this asset.</li>
 </ul>
-<p>
-See [Layout Example](src/layout_template/main.php)
-</p>
-<p><b><i>This package is release under [GPLv3](GPLv3.md), read the [lincense](LICENSE.MD)</i></b></p>
+
+See [Layout Example](blog/src/layout_template/main.php)
+
+<b><i>This package is release under [GPLv3](GPLv3.md), read the [lincense](LICENSE.MD)</i></b>
