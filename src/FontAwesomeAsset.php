@@ -4,11 +4,17 @@
  * @author    Roberto Braga <bobonov@gmail.com>
  * @copyright Copyright &copy; Roberto Braga, 2020
  * @version   1.0
+ * @license   GPL v3
  */
 
 namespace bobonov\adminlte3;
 use yii\web\AssetBundle;
 
+/**
+ * Class FontAwesomeAsset
+ * @package bobonov\adminlte3
+ * This class provide FontAwesomeAsset from the AdminLTE3 source
+ */
 class FontAwesomeAsset extends AssetBundle
 {
     public $sourcePath = '@vendor/almasaeed2010/adminlte/plugins/fontawesome-free';
