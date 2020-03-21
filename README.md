@@ -48,4 +48,4 @@ package you can disable this asset.</li>
 
 See [Layout Example](blog/src/layout_template/main.php)
 
-<b><i>This package is release under [GPLv3](GPLv3.md), read the [lincense](LICENSE.MD)</i></b>
+<b><i>This package is release under BSD-3-Clause, read the [lincense](LICENSE.MD)</i></b>
