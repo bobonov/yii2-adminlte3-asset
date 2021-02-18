@@ -18,7 +18,7 @@
     "prefer-stable": true,
     "require": {
         "yiisoft/yii2-bootstrap4": "~2.0",
-        "almasaeed2010/adminlte":   "~3.0"
+        "almasaeed2010/adminlte":   "~3.1"
     },
     "require-dev": {
         "yiisoft/yii2-coding-standards": "~2.0",
