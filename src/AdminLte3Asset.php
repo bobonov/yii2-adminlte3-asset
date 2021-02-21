@@ -23,11 +23,11 @@ class AdminLte3Asset extends AssetBundle
 {
     public $sourcePath = '@vendor/almasaeed2010/adminlte/dist';
     public $js = [
-            'js/adminlte.js'
-        ];
+        'js/adminlte.js'
+    ];
     public $css = [
-            'css/adminlte.css',
-        ];
+        'css/adminlte.css',
+    ];
     public $depends
         = [
             YiiAsset::class,

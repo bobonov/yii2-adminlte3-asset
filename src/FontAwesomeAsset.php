@@ -19,9 +19,10 @@ use yii\web\AssetBundle;
 class FontAwesomeAsset extends AssetBundle
 {
     public $sourcePath = '@vendor/almasaeed2010/adminlte/plugins/fontawesome-free';
-    
-    public $css
-        = [
+
+    public $css = [
             'css/all.min.css',
+            'css/v4-shims.min.css',
+            'css/fontawesome.min.css',
         ];
 }
